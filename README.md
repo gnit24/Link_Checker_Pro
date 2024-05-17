@@ -16,7 +16,7 @@ Get started today and take the first step towards a healthier website with Link_
 
 🚀 Start optimizing your website now: [Link_Check_Pro.py](#)
 
-<img src="/images/demo.gif" width="30%" height="60%"/>
+<img src="/images/demo.gif" width="320" height="480"/>
 
 | Description                                      | Usage                                              |
 |--------------------------------------------------|----------------------------------------------------|
