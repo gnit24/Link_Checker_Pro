@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/created_by-gnit24-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/_-Python-306998?style=flat&logo=Python&labelColor=FFE873)
+![GitHub file size in bytes](https://img.shields.io/github/size/gnit24/Link_Check_Pro/Link_Check_Pro.py?style=flat&color=green)
+![GitHub License](https://img.shields.io/github/license/gnit24/Link_Check_Pro)
+
 🔍 **Link_Check_Pro**
 
 Link_Check_Pro is your ultimate tool for ensuring the health of your website's links! With just a few clicks, you can scan your entire website and discover broken or outdated links, ensuring a seamless browsing experience for your users. Say goodbye to frustrating 404 errors and hello to a smoother, more reliable website. Don't let broken links hold you back – let Link_Check_Pro keep your website in top shape!
@@ -13,3 +18,7 @@ Get started today and take the first step towards a healthier website with Link_
 
 🚀 Start optimizing your website now: [Link_Check_Pro.py](#)
 
+| Description                                      | Usage                                              |
+|--------------------------------------------------|----------------------------------------------------|
+| To check a single website:                       | `python Link_Check_Pro.py example.com`            |
+| To check multiple websites from a file:          | `python Link_Check_Pro.py -f urls.txt`            |
