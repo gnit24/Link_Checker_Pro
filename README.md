@@ -34,8 +34,7 @@ Get started today and take the first step towards a healthier website with Link_
 &nbsp;
 
 
-<a href="https://www.buymeacoffee.com/gnit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-
-[![Buy Me A Coffee](images/funding.png)](https://www.buymeacoffee.com/gnit)
+<a href="https://www.buymeacoffee.com/gnit" target="_blank">
+  <img src="images/funding.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
 
